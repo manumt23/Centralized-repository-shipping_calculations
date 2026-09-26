@@ -1,4 +1,6 @@
-#Aqui hay una actualizacion por manumt23
+# Here is another update by @manumt23
+
+#Aqui hay una actualizacion por @manumt23
 
 # Shipping Cost Calculator
 
